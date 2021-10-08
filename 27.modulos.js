@@ -1,5 +1,5 @@
-import {perro} from './30.modulos1.js'
-import r from './30.modulos2.js'
+import {perro} from './28.modulos1.js'
+import r from './29.modulos2.js'
 import {sumar} from './30.modulos2.js'
 
 
