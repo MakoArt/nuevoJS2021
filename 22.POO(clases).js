@@ -48,7 +48,7 @@ console.log(Automovil.ruedas())
 //En el super solo lo que heredamos
 
 class Nautica extends Automovil {
-     constructor(materialCasco,tipoMotor,marca,modelo){
+     constructor(marca,modelo,materialCasco,tipoMotor){
           super(marca,modelo)
          
           this.materialCasco=materialCasco
